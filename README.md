@@ -15,7 +15,7 @@ I'm a Frontend Developer and UI/UX Designer with a passion for creating beautifu
 - JavaScript
 - React
 - Redux
-- Sass
+- Bootstrap
 - styled-components
 - UI/UX Design
 
