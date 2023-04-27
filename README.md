@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Asim Selim</h1>
 <h2 align="center">I'm a Frontend Developer and UI/UX Designer with a passion for creating beautiful and functional websites and applications.</h2>
 
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="50"> A little more about me... 
 ```javascript
 const Egyptian = {
   pronouns: "He" | "him",
   Education: {
-                Software Engineering at <a href="https://www.nisantasi.edu.tr/">İstanbul Nişantaşı Üniversitesi</a>
-                Web Developer at <a href="https://www.anadolu.edu.tr/">Anadolu University</a>
+                Software Engineering at İstanbul Nişantaşı Üniversitesi,
+                Web Developer at Anadolu University,
                 
   code: [Javascript, HTML, CSS, Java, Wordpress],
   tools: [React, Bootstrap, Adobe XD, Figma],
@@ -16,7 +18,6 @@ const Egyptian = {
                         speaker: "Arabic", "Turkish", "English",
                         
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assim9&label=Profile%20views&color=0e75b6&style=flat" alt="assim9" /> </p>
