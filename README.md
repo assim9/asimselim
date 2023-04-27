@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Asim Selim</h1>
-<h3 align="center">I'm a Frontend Developer and UI/UX Designer with a passion for creating beautiful and functional websites and applications.</h3>
+<h2 align="center">I'm a Frontend Developer and UI/UX Designer with a passion for creating beautiful and functional websites and applications.</h2>
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+const Egyptian = {
+  pronouns: "He" | "him",
+  Education: {
+                Software Engineering at <a href="https://www.nisantasi.edu.tr/">İstanbul Nişantaşı Üniversitesi</a>
+                Web Developer at <a href="https://www.anadolu.edu.tr/">Anadolu University</a>
+                
+  code: [Javascript, HTML, CSS, Java, Wordpress],
+  tools: [React, Bootstrap, Adobe XD, Figma],
+  Design: ["UI", "UX", "design system pattern"],
+  Languages: {
+                        
+                        speaker: "Arabic", "Turkish", "English",
+                        
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
